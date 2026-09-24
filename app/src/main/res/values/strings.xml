@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Facebook Invite Auto Scroll</string>
+    <string name="accessibility_description">Assists with visible Invite lists using exact text matching and normal accessibility actions.</string>
+</resources>
