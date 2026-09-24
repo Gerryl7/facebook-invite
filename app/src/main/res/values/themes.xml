@@ -1,0 +1,8 @@
+<resources>
+    <style name="Theme.FacebookInvite" parent="Theme.Material3.Light.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:colorAccent">#1877F2</item>
+        <item name="android:statusBarColor">#071B55</item>
+        <item name="android:navigationBarColor">#000000</item>
+    </style>
+</resources>
